@@ -60,8 +60,9 @@ Sahsarthi is an innovative campus navigation system designed to help users explo
    ```bash
    git clone https://github.com/your-username/sahsarthi.git
    cd sahsarthi/flutter-app
-  ```
-2.Install dependencies:
+   ```
+
+2. Install dependencies:
  ```bash
 flutter pub get
  ```
@@ -70,7 +71,7 @@ flutter pub get
 flutter run
 Website
  ```
-Clone the repository:
+4.Clone the repository:
  ```bash
 git clone https://github.com/your-username/sahsarthi.git
  ```
