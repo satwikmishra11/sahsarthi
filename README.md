@@ -118,6 +118,6 @@ Email:satwikmishra46@gmail.com
 GitHub:Satwikmishra11
 Acknowledgments:-
 Special thanks to all contributors and supporters of the Sahsarthi project.
-#nitin singh/
-#deepak mottan/
+#nitin singh/n
+#deepak mottan/n
 #aanshu kalua
