@@ -86,14 +86,20 @@ Website
 1. the website on your browser.
 2.Search for a specific building or landmark.
 3.Explore key information or view your navigation progress.
+
 Screenshots:-
+
 Flutter App:-
+
 Add images showcasing the 3D model and navigation experience.
 
+
 Website:-
+
 Add screenshots of the homepage, navigation system, and user progress tracker.
 
 Contribution:-
+
 Contributions are welcome! Follow these steps to contribute:
 
 1.Fork the repository.
@@ -114,10 +120,17 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contact:-
 For questions, suggestions, or feedback, please reach out:
 
+
 Email:satwikmishra46@gmail.com
+
 GitHub:Satwikmishra11
+
 Acknowledgments:-
+
 Special thanks to all contributors and supporters of the Sahsarthi project.
-#nitin singh/n
-#deepak mottan/n
+
+#nitin singh
+
+#deepak mottan
+
 #aanshu kalua
