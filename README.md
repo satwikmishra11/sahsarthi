@@ -91,12 +91,12 @@ Screenshots:-
 
 Flutter App:-
 
-Add images showcasing the 3D model and navigation experience.
-
+https://pic.surf/22w
 
 Website:-
 
-Add screenshots of the homepage, navigation system, and user progress tracker.
+https://pic.surf/jvx
+
 
 Contribution:-
 
