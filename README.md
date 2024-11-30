@@ -114,7 +114,6 @@ git checkout -b feature-name
  ```
 2.Make changes and commit:
  ```bash
-Copy code
 git commit -m "Description of changes"
  ```
 3.Push to your fork and create a pull request.
