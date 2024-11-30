@@ -73,7 +73,7 @@ Website
  ```
 4.Clone the repository:
  ```bash
-git clone https://github.com/your-username/sahsarthi.git
+git clone https://github.com/satwikmishra11/sahsarthi.git
  ```
 cd sahsarthi/website
 1.Open the index.html file in any browser or host it on a web server.
